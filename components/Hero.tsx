@@ -17,7 +17,7 @@ function Hero() {
 
         <img
           className="hidden md:inline-flex md:h-64 lg:h-full"
-          src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png"
+          src="https://accountabilitylab.org/wp-content/uploads/2020/03/Medium-logo.png"
           alt="Medium Logo Hero"
         />
       </div>
